@@ -60,6 +60,7 @@ def get_dataframe(sql_query):
 
 
 # Insert the get_engine() function definition below - when instructed
+# Designed to work with a local PostgreSQL server
 def get_engine():
     sql_config = get_sql_config()
     engine = sqlalchemy.create_engine('postgresql://user:pass@host/database',
