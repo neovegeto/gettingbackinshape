@@ -151,3 +151,7 @@ __MACOSX/
 # Added by hand
 .csv
 .zip
+.json
+*.zip
+*.csv
+*.json
