@@ -137,6 +137,10 @@ dmypy.json
 data/
 /data/
 data
+archive/    
+/archive/
+sgd_data/
+/sgd_data/
 
 # Garbage
 Garbage
