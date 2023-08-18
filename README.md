@@ -3,4 +3,8 @@ After moving countries, learning a new language and writing application, I am a 
 
 Taking a Dataset, Analyses it, Cleaning, Graphic, SQL, maybe even Tableau.
 
-This will be mostly a work in progress - folder
+This will be mostly a work in progress.
+I will use the folders to seperate the projects.
+
+First Project: steam_games_dataset
+A Dataset from Kaggle. I will use Python, SQL and maybe Tableau
