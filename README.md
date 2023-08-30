@@ -11,6 +11,6 @@ I will use the folders to seperate the projects.
    A Dataset from [Kaggle](https://www.kaggle.com/datasets/fronkongames/steam-games-dataset?resource=download). I will use Python, SQL and maybe Tableau.
    So far I created 4 different Workbooks with different approaches.
    
-   Conclusion: The Dataset is not worth for creating Top3/5/10 - Lists. Is a boring task and not the best Data for Task, just in case you wanted to find your next game for upcoming Steam-Sale.
+   Conclusion: The Dataset is not worth for creating Top3/5/10 - Lists. Is a boring task and not the best Data for this kind of project, just in case you wanted to find your next game for upcoming Steam-Sale.
    The better Task was to find out "why the Data is actually "garbage". A lot of visualisations in Python helped with that. I found no further value in operating with Tableau.
 
